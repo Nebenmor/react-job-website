@@ -83,20 +83,6 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
-    },
-    {
-      "id": "f889",
-      "title": "Test Job",
-      "type": "Full-Time",
-      "location": "Florida, US",
-      "description": "React Dev ",
-      "salary": "Under $50K",
-      "company": {
-        "name": "Devanthon Technologies",
-        "description": "tech company",
-        "contactEmail": "devanthontech@gmail.com",
-        "contactPhone": "123-456-7890"
-      }
     }
   ]
 }
