@@ -1,6 +1,6 @@
-# React Jobs Project (YouTube)
+# React Jobs Project
 
-This is the jobs listing project from the [YouTube crash course](https://youtu.be/LDB4uaJ87e0).
+This is a React jobs listing website project to enable job search and hiring process easier
 
 <img src="public/screen.png" />
 
